@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi everyone, I'm Thiago 👋
 
-<!--
-**Th-Fernandes/Th-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estudando e me aperfeiçoando para se tornar um Desenvolvedor front-end, minha recém descoberta paixão.
+  • 📘 atualmente aprendendo: HTML, CSS e JS
+  • 📑 tenho interesse em aprender: react 
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Th-Fernandes)](https://github.com/Th-Fernandes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-fernandes-962351186//)](https://www.linkedin.com/in/fagnerpsantos/)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
