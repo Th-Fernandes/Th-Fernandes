@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Thiago 👋
 
-Atualmente estudando e me aperfeiçoando para se tornar um Desenvolvedor front-end, minha recém descoberta paixão.
+Atualmente estudando e me aperfeiçoando para me tornar um Desenvolvedor front-end, minha recém descoberta paixão.
  - 📘 atualmente aprendendo: HTML, CSS e JS
  - 📑 tenho interesse em aprender: react 
 
