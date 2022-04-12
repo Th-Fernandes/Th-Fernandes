@@ -4,6 +4,8 @@
   
 ### atualmente focado em aprender:
 - React
+- next.js
+- typescript
 
 ## Geralmente trabalho com:
 - HTML
