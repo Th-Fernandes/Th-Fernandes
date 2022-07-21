@@ -2,15 +2,12 @@
 
   Olá, meu nome é Thiago, tenho 20 anos e moro no RJ. A cada dia abraçando um novo desafio da área que amo: frontend.
   
-### atualmente focado em aprender:
+### tecnologias que utilizo:
+- HTML, CSS e JS
 - React
 - next.js
 - typescript
-
-## Geralmente trabalho com:
-- HTML
-- SCSS
-- JS
+- SCSS e Styled-components
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-fernandes&layout=compact&langs_count=16&theme=dracula" />
