@@ -6,7 +6,6 @@
 - HTML, CSS e JS
 - React
 - next.js
-- typescript
 - SCSS e Styled-components
 
 <div>
