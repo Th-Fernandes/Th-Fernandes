@@ -13,7 +13,7 @@
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img style="background-color: #Fff" align="center" alt="Thiago-NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Thiago-NextJs" height="30" width="30" src="https://blog.bywachira.com/nextjs.png">
   <img align="center" alt="Thiago-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
 
@@ -22,7 +22,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Thiago-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" style="background-color: #FFf" alt="Thiago-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
 </div>
 
 <br>
@@ -30,5 +29,4 @@
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-fernandes&layout=compact&langs_count=16&theme=dracula" />
 </div>
-
 
