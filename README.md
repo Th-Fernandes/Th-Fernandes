@@ -1,6 +1,6 @@
 # Oi, eu sou Thiago 👋
-Desenvolvedor Front-end
 
+Desenvolvedor Front-end
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Thiago%20Fernandes-FF084A?style=flat-square&labelColor=FF084A&logo=linkedin&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/)](https://www.linkedin.com/in/thiago-fernandes-front/)  
 [![Instagram Badge](https://img.shields.io/badge/-@thiagofernandes.dev-FF084A?style=flat-square&labelColor=FF084A&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/)](https://www.instagram.com/thiagofernades.dev/)
