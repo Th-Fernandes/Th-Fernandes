@@ -25,6 +25,7 @@
   <img align="center" alt="Thiago-express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 </div>
 
+<br>
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-fernandes&layout=compact&langs_count=16&theme=dracula" />
