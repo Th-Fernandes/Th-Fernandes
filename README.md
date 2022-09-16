@@ -1,6 +1,7 @@
 ## Hi everyone, I'm Thiago 👋
+<img src="https://ibb.co/4Jw8c9d" />
 
-  Olá, meu nome é Thiago, tenho 20 anos e moro no RJ. A cada dia abraçando um novo desafio da área que amo: frontend.
+Olá, meu nome é Thiago, tenho 20 anos e moro no RJ. A cada dia abraçando um novo desafio da área que amo: frontend.
   
 ### tecnologias que utilizo:
 - HTML, CSS e JS
