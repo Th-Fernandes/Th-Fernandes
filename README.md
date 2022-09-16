@@ -1,7 +1,11 @@
-## Hi everyone, I'm Thiago 👋
-<img src="https://ibb.co/4Jw8c9d" />
+# Oi, eu sou Thiago 👋
+Desenvolvedor Front-end
 
-Olá, meu nome é Thiago, tenho 20 anos e moro no RJ. A cada dia abraçando um novo desafio da área que amo: frontend.
+[!linkedIn](https://img.shields.io/badge/-Thiago%20Fernandes-FF084A?style=flat-square&labelColor=FF084A&logo=linkedin&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/)
+[!Instagram](https://img.shields.io/badge/-@thiagofernandes.dev-FF084A?style=flat-square&labelColor=FF084A&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/)
+[!email](https://img.shields.io/badge/-thiagojfcarvalho@gmail.com-FF084A?style=flat-square&labelColor=FF084A&logo=gmail&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/)
+
+Olá, meu nome é Thiago, tenho 20 anos e moro no RJ. Solucionador de problemas através das linhas de código 🤩
   
 ### tecnologias que utilizo:
 - HTML, CSS e JS
@@ -17,9 +21,4 @@ Olá, meu nome é Thiago, tenho 20 anos e moro no RJ. A cada dia abraçando um n
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th-fernandes&layout=compact&langs_count=16&theme=dracula" />
 </div>
-
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Th-Fernandes)](https://github.com/Th-Fernandes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-fernandes-962351186//)](https://www.linkedin.com/in/thiago-fernandes-962351186/)
-
 
