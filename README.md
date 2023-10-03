@@ -21,7 +21,6 @@
         <img src="https://img.shields.io/badge/Javascript-1455CC">
         <img src="https://img.shields.io/badge/Tailwindcss-1455CC">
         <img src="https://img.shields.io/badge/SASS/SCSS-1455CC">
-        <img src="https://img.shields.io/badge/Testing%20Library-1455CC">
         <img src="https://img.shields.io/badge/HTML-1455CC">
         <img src="https://img.shields.io/badge/CSS-1455CC">
         <img src="https://img.shields.io/badge/Styled%20Components-1455CC">
@@ -37,6 +36,7 @@
 <div>
     <h2 style="border-bottom: none">Tecnologias que estou aprendendo:</h2>
     <img src="https://img.shields.io/badge/Cypress-FF084A">
+    <img src="https://img.shields.io/badge/Testing%20Library-FF084A">
 </div>
 
 <br>
