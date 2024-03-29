@@ -35,9 +35,9 @@
 
 <div>
     <h2 style="border-bottom: none">Tecnologias que estou aprendendo:</h2>
-    <img src="https://img.shields.io/badge/Java-FF084A">
-    <img src="https://img.shields.io/badge/Cypress-FF084A">
-    <img src="https://img.shields.io/badge/Testing%20Library-FF084A">
+    <img src="https://img.shields.io/badge/PHP-FF084A">
+    <img src="https://img.shields.io/badge/Laravel-FF084A">
+    <img src="https://img.shields.io/badge/Livewire-FF084A">
 </div>
 
 <br>
