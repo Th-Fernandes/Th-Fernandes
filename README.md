@@ -6,38 +6,40 @@
 
 <div>
     <h2 style="border-bottom: none">Entre em contato</h2>
-  <a href="https://www.linkedin.com/in/thiago-fernandes-front/"> <img src="https://img.shields.io/badge/-Thiago%20Fernandes-FF084A?style=flat-square&labelColor=FF084A&logo=linkedin&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/" /></a>
-  <a href="https://www.instagram.com/thiagofernades.dev/"> <img src="https://img.shields.io/badge/-@thiagofernandes.dev-FF084A?style=flat-square&labelColor=FF084A&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/" /></a>
-  <a href="https://www.instagram.com/thiagofernades.dev/"> <img src="https://img.shields.io/badge/-thiagojfcarvalho@gmail.com-FF084A?style=flat-square&labelColor=FF084A&logo=gmail&logoColor=white&link=https://www.instagram.com/thiagofernades.dev/" /></a>
+  <a href="https://www.linkedin.com/in/thiago-fernandes-front/"> 
+    <img src="https://img.shields.io/badge/thiagojfcarvalho@gmail.com-white?style=for-the-badge&logo=gmail&color=9067D2&logoColor=white"> 
+  </a>
+  <a href="https://www.instagram.com/thiagofernades.dev/">
+    <img src="https://img.shields.io/badge/Thiago%20fernandes-white?style=for-the-badge&logo=linkedin&color=9067D2&logoColor=white" />
+  </a>
 </div>
 
 
 
 <div >
     <h2 style="border-bottom: none">tecnologias que possuo experiência:</h2>
-        <img src="https://img.shields.io/badge/React-1455CC">
-        <img src="https://img.shields.io/badge/Nextjs-1455CC">
-        <img src="https://img.shields.io/badge/Typescript-1455CC">
-        <img src="https://img.shields.io/badge/Javascript-1455CC">
-        <img src="https://img.shields.io/badge/Tailwindcss-1455CC">
-        <img src="https://img.shields.io/badge/SASS/SCSS-1455CC">
-        <img src="https://img.shields.io/badge/HTML-1455CC">
-        <img src="https://img.shields.io/badge/CSS-1455CC">
-        <img src="https://img.shields.io/badge/Styled%20Components-1455CC">
-        <img src="https://img.shields.io/badge/Node-69569F">
-        <img src="https://img.shields.io/badge/Express-69569F">
-        <img src="https://img.shields.io/badge/PrismaORM-69569F">
-        <img src="https://img.shields.io/badge/MySQL-69569F">
-        <img src="https://img.shields.io/badge/Git-11151C">
+      <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/NextJs-white?style=for-the-badge&logo=nextdotjs&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/tailwindcss-grey?style=for-the-badge&logo=tailwindcss&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/SCSS/sass-grey?style=for-the-badge&logo=sass&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=htmx&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styledcomponents&color=9067D2&logoColor=white">
+      <img src="https://img.shields.io/badge/express/node-grey?style=for-the-badge&logo=nodedotjs&color=2B809B&logoColor=white">
+      <img src="https://img.shields.io/badge/PRISMA%20ORM-grey?style=for-the-badge&logo=prisma&color=2B809B&logoColor=white">
+      <img src="https://img.shields.io/badge/POSTGRESQL-grey?style=for-the-badge&logo=postgresql&color=2B809B&logoColor=white">
+      <img src="https://img.shields.io/badge/git-grey?style=for-the-badge&logo=git&color=E9A134&logoColor=white">
 </div>
 
 
 
-<div>
-    <h2 style="border-bottom: none">Tecnologias que estou aprendendo:</h2>
-    <img src="https://img.shields.io/badge/PHP-FF084A">
-    <img src="https://img.shields.io/badge/Laravel-FF084A">
-    <img src="https://img.shields.io/badge/Livewire-FF084A">
+<div> 
+    <h2 style="border-bottom: none">Tecnologias que estou me especializando</h2>
+     <img src="https://img.shields.io/badge/cypress-grey?style=for-the-badge&logo=cypress&color=9067D2&logoColor=white">
+    <img src="https://img.shields.io/badge/PHP-grey?style=for-the-badge&logo=php&color=2B809B&logoColor=white">
+    <img src="https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel&color=2B809B&logoColor=white">
+    <img src="https://img.shields.io/badge/docker-grey?style=for-the-badge&logo=docker&color=E9A134&logoColor=white">
 </div>
 
 <br>
